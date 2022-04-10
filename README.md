@@ -1,6 +1,6 @@
 # video_editor
 
-## Sample Video Screeshots With Original Vidio screenshot
+## Sample Video Screeshots With Original Video screenshot
 - 1. Original
 - 2. Nior
 - 3. Mono
